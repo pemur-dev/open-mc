@@ -39,7 +39,7 @@
 ### 2. Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/yourusername/open-mc.git
+git clone https://github.com/pemur-dev/open-mc
 cd open-mc
 npm install
 npm run build
