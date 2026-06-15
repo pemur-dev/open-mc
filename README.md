@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" width="100" alt="open-mc logo" />
+  <img src="" width="100" alt="" />
 </p>
 
 <h1 align="center">open-mc</h1>
