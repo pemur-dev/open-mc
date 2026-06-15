@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="" width="100" alt="" />
+  <img src="https://ibb.co/VpBwDJ2P" width="100" alt="open-mc logo" />
 </p>
 
 <h1 align="center">open-mc</h1>
@@ -39,7 +39,7 @@
 ### 2. Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/pemur-dev/open-mc
+git clone https://github.com/yourusername/open-mc.git
 cd open-mc
 npm install
 npm run build
@@ -104,5 +104,5 @@ Feel free to open issues or submit pull requests to help improve `open-mc`!
 ---
 
 <p align="center">
-  Made by Pemur._. for the Minecraft Community
+  Made with ❤️ for the Minecraft Community
 </p>
